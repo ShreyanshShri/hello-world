@@ -15,7 +15,7 @@ const приставка = new con()
 const コンソール = new con()
 
 // I used google translate so I'm not sure if these are correct translation or not.
-// So if you find any mistake please let me know by breating a PR or an issue
+// So if you find any mistake please let me know by making a PR or an issue
 
 console.log("Hello World")
 कौंन्सोल.लोग("नमस्ते दुनिया")
